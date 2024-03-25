@@ -4,7 +4,7 @@ author: "Naphthalin"
 published: 2024-03-24
 ---
 
-GM Matthew Sadler has posted a [blog post](https://matthewsadler.me.uk/openings/online-chess-novelties/) on WDL Contempt and a series of YouTube videos showing examples of using it for opening preparation.
+GM Matthew Sadler has posted a [blog post](https://matthewsadler.me.uk/engine-chess/setting-up-wdl-contempt-for-leela-in-nibbler/) on WDL Contempt and a series of YouTube videos showing examples of using it for opening preparation.
 <!--more-->
 
 1. [Introducing Crazy Leela’s GROB Semi Slav! Part 1](https://www.youtube.com/watch?v=u9i71vdm_Ew)
